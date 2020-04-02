@@ -688,7 +688,7 @@ dataSet[dataSetVersion].characterData = [
 	}
   },
   {
-    name: "Welch (SO4)",
+    name: "Welch Vineyard (SO4)",
     img: "7tqTmlG.png",
     opts: {
       series: ["SO4"],
