@@ -1,1 +1,2 @@
-# SOsort.github.io
+# SOsort
+ Star Ocean character sorter
