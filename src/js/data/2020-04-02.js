@@ -743,7 +743,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Tc7cQel.png",
     opts: {
       series: ["SO4"],
-      stage: ["M", "N"]
+      stage: ["M", "N"],
+	  dialog: true
 	}
   },
   {
@@ -751,7 +752,8 @@ dataSet[dataSetVersion].characterData = [
     img: "UqCgNDN.png",
     opts: {
       series: ["SO4"],
-      stage: ["M", "N"]
+      stage: ["M", "N"],
+	  dialog: true
 	}
   }
 ]
